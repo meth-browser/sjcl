@@ -1,3 +1,10 @@
+**This is a fork of SJCL, customized for use with Meth. The following changes were made (see `meth` branch):**
+
+* `random.js` is not included in the build
+* `sha512.js` is included in the build
+
+Changes were made using command: `./configure --with-sha-512 --without-random`
+
 sjcl
 ====
 
