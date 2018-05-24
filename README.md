@@ -4,6 +4,8 @@
 
 Changes were made using command: `./configure --with-sha512`
 
+**This version is published as an NPM module: @meth/sjcl**
+
 sjcl
 ====
 
